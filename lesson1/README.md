@@ -29,3 +29,5 @@ property-data-bucket
     |FL_insurance_sample_property.csv
 
 ```
+ - - - -
+You may follow to [lesson 2](https://github.com/wukimmy/insurance-analytics/tree/master/lesson2)
