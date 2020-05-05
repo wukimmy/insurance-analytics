@@ -11,10 +11,10 @@ In this workshop, we build a completely serverless insurance data analytics, wit
 There are 5 lessons.
 
  - [Lesson 1 - Create S3 Buckets](https://github.com/wukimmy/insurance-analytics/tree/master/lesson1)
- - [Lesson 2 - Setup the initial crawlers]()
- - [Lesson 3 - Lambda calling Athena]()
- - [Lesson 4 - Setup the result crawler]()
- - [Lesson 5 - Setup ETL]()
+ - [Lesson 2 - Setup the initial crawlers](https://github.com/wukimmy/insurance-analytics/tree/master/lesson2)
+ - [Lesson 3 - Lambda calling Athena](https://github.com/wukimmy/insurance-analytics/tree/master/lesson3)
+ - [Lesson 4 - Setup the result crawler](https://github.com/wukimmy/insurance-analytics/tree/master/lesson4)
+ - [Lesson 5 - Setup ETL](https://github.com/wukimmy/insurance-analytics/tree/master/lesson5)
 
 ## Get Started
 
