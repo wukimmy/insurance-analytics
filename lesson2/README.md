@@ -14,7 +14,7 @@ On this lesson we will be setting up the initical crawler to map the csv file.
 ## Creating a Crawler
  1. Add you crawler name (e.g insurance-property-crawler)
 
- ```[Optional]you may add some tags```
+[Optional]you may add some tags
 
 2. As data source choose Data stores option
 
