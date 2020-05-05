@@ -5,8 +5,8 @@ On this lesson we will be creating the S3 buckets for the process.
 ## 1. Creat the Data Source bucket
 
 As an data source, we will have two different files, therefore we will separate in two differents S3 buckets:
-- insurance-data
-- property-data
+- insurance-data-bucket
+- property-data-bucket
 
 And you will also nedd the bucket for the result, with a folder for the tranformed file:
 ```
