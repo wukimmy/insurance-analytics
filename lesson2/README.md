@@ -38,6 +38,6 @@ On this lesson we will be setting up the initical crawler to map the csv file.
 
 Select your crawler and click on "Run Crawler"
 
-![alt text](../img/run-crawler)
+![alt text](../img/run-crawler.png)
 
 After its stoped you can see
