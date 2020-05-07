@@ -40,4 +40,6 @@ Select your crawler and click on "Run Crawler"
 
 ![alt text](../img/run-crawler.png)
 
-After its stoped you can see
+After its stoped you can see the execution Log on cloud watch.
+ - - - -
+You may follow to [lesson 3](https://github.com/wukimmy/insurance-analytics/tree/master/lesson3)
